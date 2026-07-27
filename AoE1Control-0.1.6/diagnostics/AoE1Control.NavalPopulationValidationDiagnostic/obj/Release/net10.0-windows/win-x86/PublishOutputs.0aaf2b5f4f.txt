@@ -1,0 +1,9 @@
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.6\artifacts\publish\naval-population-validation-diagnostic-win-x86\AoE1Control.NavalPopulationValidationDiagnostic.exe
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.6\artifacts\publish\naval-population-validation-diagnostic-win-x86\profiles\aoe-gold-1abd91e1.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.6\artifacts\publish\naval-population-validation-diagnostic-win-x86\AoE1Control.NavalPopulationValidationDiagnostic.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.6\artifacts\publish\naval-population-validation-diagnostic-win-x86\AoE1Control.NavalPopulationValidationDiagnostic.deps.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.6\artifacts\publish\naval-population-validation-diagnostic-win-x86\AoE1Control.NavalPopulationValidationDiagnostic.runtimeconfig.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.6\artifacts\publish\naval-population-validation-diagnostic-win-x86\AoE1Control.NavalPopulationValidationDiagnostic.pdb
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.6\artifacts\publish\naval-population-validation-diagnostic-win-x86\AoE1Control.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.6\artifacts\publish\naval-population-validation-diagnostic-win-x86\AoE1Control.pdb
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.6\artifacts\publish\naval-population-validation-diagnostic-win-x86\AoE1Control.xml

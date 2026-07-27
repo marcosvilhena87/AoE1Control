@@ -1,0 +1,9 @@
+AoE1Control 0.1.6 — NavalPopulationValidationDiagnostic
+
+BASELINE: pop=3/4, available=1, villagers=3, nonVillagers=0
+ALDEAO_CONCLUIDO: pop=4/4, available=0, villagers=4, nonVillagers=0
+MILITAR_CONCLUIDO: pop=5/8, available=3, villagers=4, nonVillagers=1
+BARCO_PESCA_CONCLUIDO: pop=6/8, available=2, villagers=5, nonVillagers=1
+BARCO_TRANSPORTE_CONCLUIDO: pop=7/8, available=1, villagers=6, nonVillagers=1
+
+Consulte naval-candidates.csv para campos que respondem isoladamente a barcos.

@@ -1,0 +1,14 @@
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\src\AoE1Control\bin\Release\net10.0-windows\profiles\aoe-gold-1abd91e1.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\src\AoE1Control\bin\Release\net10.0-windows\AoE1Control.deps.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\src\AoE1Control\bin\Release\net10.0-windows\AoE1Control.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\src\AoE1Control\bin\Release\net10.0-windows\AoE1Control.pdb
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\src\AoE1Control\bin\Release\net10.0-windows\AoE1Control.xml
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\src\AoE1Control\obj\Release\net10.0-windows\AoE1Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\src\AoE1Control\obj\Release\net10.0-windows\AoE1Control.AssemblyInfoInputs.cache
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\src\AoE1Control\obj\Release\net10.0-windows\AoE1Control.AssemblyInfo.cs
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\src\AoE1Control\obj\Release\net10.0-windows\AoE1Control.csproj.CoreCompileInputs.cache
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\src\AoE1Control\obj\Release\net10.0-windows\AoE1Control.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\src\AoE1Control\obj\Release\net10.0-windows\refint\AoE1Control.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\src\AoE1Control\obj\Release\net10.0-windows\AoE1Control.xml
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\src\AoE1Control\obj\Release\net10.0-windows\AoE1Control.pdb
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\src\AoE1Control\obj\Release\net10.0-windows\ref\AoE1Control.dll

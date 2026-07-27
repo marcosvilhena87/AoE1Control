@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "profileId": "aoe-gold-1abd91e1",
+  "game": "Age of Empires",
+  "edition": "Gold Edition",
+  "executable": {
+    "name": "EMPIRES.EXE",
+    "sha256": "1abd91e18a7034192eab88b841854fad09c77138d3a81a57a57fce3b69b4065d"
+  },
+  "session": {
+    "address": "0x00656754",
+    "activeValue": 1
+  },
+  "localPlayer": {
+    "playerId": 1,
+    "playerContainer": {
+      "moduleOffset": "0x16D604"
+    },
+    "playerBaseOffset": "0x4BC",
+    "resourceOwnerOffset": "0xF8",
+    "resourceBlockOffset": "0x50"
+  },
+  "resources": {
+    "foodOffset": "0x00",
+    "woodOffset": "0x04",
+    "stoneOffset": "0x08",
+    "goldOffset": "0x0C",
+    "type": "float32"
+  }
+}

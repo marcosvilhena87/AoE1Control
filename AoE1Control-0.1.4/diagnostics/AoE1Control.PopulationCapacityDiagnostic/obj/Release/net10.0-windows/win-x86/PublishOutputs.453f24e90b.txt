@@ -1,0 +1,9 @@
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\artifacts\publish\population-capacity-diagnostic-win-x86\AoE1Control.PopulationCapacityDiagnostic.exe
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\artifacts\publish\population-capacity-diagnostic-win-x86\profiles\aoe-gold-1abd91e1.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\artifacts\publish\population-capacity-diagnostic-win-x86\AoE1Control.PopulationCapacityDiagnostic.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\artifacts\publish\population-capacity-diagnostic-win-x86\AoE1Control.PopulationCapacityDiagnostic.deps.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\artifacts\publish\population-capacity-diagnostic-win-x86\AoE1Control.PopulationCapacityDiagnostic.runtimeconfig.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\artifacts\publish\population-capacity-diagnostic-win-x86\AoE1Control.PopulationCapacityDiagnostic.pdb
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\artifacts\publish\population-capacity-diagnostic-win-x86\AoE1Control.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\artifacts\publish\population-capacity-diagnostic-win-x86\AoE1Control.pdb
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.4\artifacts\publish\population-capacity-diagnostic-win-x86\AoE1Control.xml

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/AoE1Control/AoE1Control.csproj" />
+  <Project Path="samples/AoE1Control.Sample/AoE1Control.Sample.csproj" />
+</Solution>

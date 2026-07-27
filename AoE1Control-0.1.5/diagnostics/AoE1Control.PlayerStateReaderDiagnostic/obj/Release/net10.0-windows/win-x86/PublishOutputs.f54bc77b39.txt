@@ -1,0 +1,9 @@
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.5\artifacts\publish\player-state-reader-diagnostic-win-x86\AoE1Control.PlayerStateReaderDiagnostic.exe
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.5\artifacts\publish\player-state-reader-diagnostic-win-x86\profiles\aoe-gold-1abd91e1.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.5\artifacts\publish\player-state-reader-diagnostic-win-x86\AoE1Control.PlayerStateReaderDiagnostic.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.5\artifacts\publish\player-state-reader-diagnostic-win-x86\AoE1Control.PlayerStateReaderDiagnostic.deps.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.5\artifacts\publish\player-state-reader-diagnostic-win-x86\AoE1Control.PlayerStateReaderDiagnostic.runtimeconfig.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.5\artifacts\publish\player-state-reader-diagnostic-win-x86\AoE1Control.PlayerStateReaderDiagnostic.pdb
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.5\artifacts\publish\player-state-reader-diagnostic-win-x86\AoE1Control.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.5\artifacts\publish\player-state-reader-diagnostic-win-x86\AoE1Control.pdb
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.5\artifacts\publish\player-state-reader-diagnostic-win-x86\AoE1Control.xml

@@ -1,0 +1,11 @@
+AoE1Control 0.1.3 — PopulationFieldValidationDiagnostic
+
+Candidate A: PlayerState + 0x0016
+Valores: 3 -> 4 -> 5 -> 4 -> 3
+Deltas: +1, +1, -1, -1
+Interpretação: PROVAVEL_POPULACAO_TOTAL
+
+Candidate B: PlayerState + 0x004A
+Valores: 3 -> 4 -> 4 -> 4 -> 3
+Deltas: +1, 0, 0, -1
+Interpretação: PROVAVEL_CONTAGEM_DE_ALDEOES

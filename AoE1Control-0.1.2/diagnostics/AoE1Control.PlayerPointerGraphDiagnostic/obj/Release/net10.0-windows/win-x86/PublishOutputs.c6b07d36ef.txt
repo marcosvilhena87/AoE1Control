@@ -1,0 +1,9 @@
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.2\artifacts\publish\player-pointer-graph-diagnostic-win-x86\AoE1Control.PlayerPointerGraphDiagnostic.exe
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.2\artifacts\publish\player-pointer-graph-diagnostic-win-x86\profiles\aoe-gold-1abd91e1.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.2\artifacts\publish\player-pointer-graph-diagnostic-win-x86\AoE1Control.PlayerPointerGraphDiagnostic.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.2\artifacts\publish\player-pointer-graph-diagnostic-win-x86\AoE1Control.PlayerPointerGraphDiagnostic.deps.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.2\artifacts\publish\player-pointer-graph-diagnostic-win-x86\AoE1Control.PlayerPointerGraphDiagnostic.runtimeconfig.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.2\artifacts\publish\player-pointer-graph-diagnostic-win-x86\AoE1Control.PlayerPointerGraphDiagnostic.pdb
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.2\artifacts\publish\player-pointer-graph-diagnostic-win-x86\AoE1Control.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.2\artifacts\publish\player-pointer-graph-diagnostic-win-x86\AoE1Control.pdb
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.1.2\artifacts\publish\player-pointer-graph-diagnostic-win-x86\AoE1Control.xml

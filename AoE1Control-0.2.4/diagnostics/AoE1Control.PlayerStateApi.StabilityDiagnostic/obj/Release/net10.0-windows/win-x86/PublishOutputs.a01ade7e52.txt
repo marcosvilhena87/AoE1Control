@@ -1,0 +1,9 @@
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.4\artifacts\publish\player-state-api-stability-diagnostic-win-x86\AoE1Control.PlayerStateApi.StabilityDiagnostic.exe
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.4\artifacts\publish\player-state-api-stability-diagnostic-win-x86\profiles\aoe-gold-1abd91e1.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.4\artifacts\publish\player-state-api-stability-diagnostic-win-x86\AoE1Control.PlayerStateApi.StabilityDiagnostic.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.4\artifacts\publish\player-state-api-stability-diagnostic-win-x86\AoE1Control.PlayerStateApi.StabilityDiagnostic.deps.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.4\artifacts\publish\player-state-api-stability-diagnostic-win-x86\AoE1Control.PlayerStateApi.StabilityDiagnostic.runtimeconfig.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.4\artifacts\publish\player-state-api-stability-diagnostic-win-x86\AoE1Control.PlayerStateApi.StabilityDiagnostic.pdb
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.4\artifacts\publish\player-state-api-stability-diagnostic-win-x86\AoE1Control.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.4\artifacts\publish\player-state-api-stability-diagnostic-win-x86\AoE1Control.pdb
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.4\artifacts\publish\player-state-api-stability-diagnostic-win-x86\AoE1Control.xml

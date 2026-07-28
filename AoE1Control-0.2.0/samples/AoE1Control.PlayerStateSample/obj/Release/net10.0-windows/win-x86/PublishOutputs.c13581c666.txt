@@ -1,0 +1,9 @@
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.0\artifacts\publish\player-state-api-sample-win-x86\AoE1Control.PlayerStateSample.exe
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.0\artifacts\publish\player-state-api-sample-win-x86\profiles\aoe-gold-1abd91e1.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.0\artifacts\publish\player-state-api-sample-win-x86\AoE1Control.PlayerStateSample.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.0\artifacts\publish\player-state-api-sample-win-x86\AoE1Control.PlayerStateSample.deps.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.0\artifacts\publish\player-state-api-sample-win-x86\AoE1Control.PlayerStateSample.runtimeconfig.json
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.0\artifacts\publish\player-state-api-sample-win-x86\AoE1Control.PlayerStateSample.pdb
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.0\artifacts\publish\player-state-api-sample-win-x86\AoE1Control.dll
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.0\artifacts\publish\player-state-api-sample-win-x86\AoE1Control.pdb
+C:\Minha_Pasta\Jogos\AoE\AoE1Control\AoE1Control-0.2.0\artifacts\publish\player-state-api-sample-win-x86\AoE1Control.xml

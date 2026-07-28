@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="src/AoE1Control/AoE1Control.csproj" />
+  <Project Path="samples/AoE1Control.Sample/AoE1Control.Sample.csproj" />
+  <Project Path="samples/AoE1Control.PlayerStateSample/AoE1Control.PlayerStateSample.csproj" />
+  <Project Path="diagnostics/AoE1Control.PlayerStateApi.StabilityDiagnostic/AoE1Control.PlayerStateApi.StabilityDiagnostic.csproj" />
+  <Project Path="diagnostics/AoE1Control.PlayerStateAvailabilityDiagnostic/AoE1Control.PlayerStateAvailabilityDiagnostic.csproj" />
+  <Project Path="diagnostics/AoE1Control.GameSessionStateDiagnostic/AoE1Control.GameSessionStateDiagnostic.csproj" />
+  <Project Path="diagnostics/AoE1Control.GamePresenceDiagnostic/AoE1Control.GamePresenceDiagnostic.csproj" />
+</Solution>

@@ -1,0 +1,19 @@
+AoE1Control 0.1.9 — Unit Counter Analysis
+
+Population current (+0x0016): 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8
+Deltas: +1, +1, +1, +1, +1, +1
+
+Scout ship candidate (+0x002A): 0 -> 0 -> 0 -> 1 -> 1 -> 1 -> 1
+Deltas: 0, 0, +1, 0, 0, 0
+
+Civilian ship candidate (+0x004A): 0 -> 0 -> 1 -> 1 -> 2 -> 2 -> 2
+Deltas: 0, +1, 0, +1, 0, 0
+
+Military population (+0x0050): 0 -> 0 -> 0 -> 1 -> 1 -> 2 -> 3
+Deltas: 0, 0, +1, 0, +1, +1
+
+Villager count (+0x0052): 0 -> 1 -> 1 -> 1 -> 1 -> 1 -> 1
+Deltas: +1, 0, 0, 0, 0, 0
+
+Economic ship candidate (+0x0066): 0 -> 0 -> 1 -> 1 -> 2 -> 2 -> 2
+Deltas: 0, +1, 0, +1, 0, 0

@@ -1,0 +1,310 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AoE1Control</name>
+    </assembly>
+    <members>
+        <member name="T:AoE1Control.AoE1ControlOptions">
+            <summary>
+            Configurações da conexão com o jogo.
+            </summary>
+        </member>
+        <member name="P:AoE1Control.AoE1ControlOptions.ProcessName">
+            <summary>Nome do processo sem extensão.</summary>
+        </member>
+        <member name="P:AoE1Control.AoE1ControlOptions.ProfilesDirectory">
+            <summary>Diretório alternativo para os perfis JSON.</summary>
+        </member>
+        <member name="P:AoE1Control.AoE1ControlOptions.RequireValidatedProfile">
+            <summary>Exige que o SHA-256 esteja cadastrado em um perfil.</summary>
+        </member>
+        <member name="P:AoE1Control.AoE1ControlOptions.AutoResolvePointers">
+            <summary>Permite resolver novamente a cadeia quando o cache ficar inválido.</summary>
+        </member>
+        <member name="T:AoE1Control.AoE1GameApi">
+            <summary>
+            Ponto de entrada da ReadOnlyGameApi.
+            </summary>
+        </member>
+        <member name="M:AoE1Control.AoE1GameApi.Connect(AoE1Control.AoE1ControlOptions)">
+            <summary>
+            Conecta ao processo do Age of Empires e valida seu perfil.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.AoE1ControlException">
+            <summary>Classe-base das falhas controladas da API.</summary>
+        </member>
+        <member name="T:AoE1Control.GameProcessExitedException">
+            <summary>O processo do jogo foi encerrado.</summary>
+        </member>
+        <member name="T:AoE1Control.GameProcessNotFoundException">
+            <summary>O processo do jogo não foi encontrado.</summary>
+        </member>
+        <member name="T:AoE1Control.GameSessionNotActiveException">
+            <summary>Nenhuma sessão de jogo está ativa.</summary>
+        </member>
+        <member name="T:AoE1Control.MemoryReadException">
+            <summary>Falha ao ler a memória do jogo.</summary>
+        </member>
+        <member name="T:AoE1Control.MultipleGameProcessesException">
+            <summary>Mais de um processo do jogo foi encontrado.</summary>
+        </member>
+        <member name="T:AoE1Control.PointerResolutionException">
+            <summary>Falha ao resolver a cadeia de ponteiros.</summary>
+        </member>
+        <member name="T:AoE1Control.UnsupportedGameVersionException">
+            <summary>A versão do jogo não é suportada.</summary>
+        </member>
+        <member name="T:AoE1Control.GamePresenceApi">
+            <summary>
+            Public minimal API for monitoring whether the game is in a match.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.GamePresenceReader">
+            <summary>
+            Maps PlayerState availability to only two states:
+            InGame or NotInGame.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.GamePresenceSnapshot">
+            <summary>
+            Minimal snapshot indicating whether the game is currently in a match.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.GamePresenceState">
+            <summary>
+            Minimal high-level indication of whether a playable match is active.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.IGamePresenceReader">
+            <summary>
+            Reads whether the game is currently in a playable match.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.GameSessionSnapshot">
+            <summary>
+            High-level session snapshot derived from PlayerState availability.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.GameSessionState">
+            <summary>
+            High-level state of the Age of Empires session.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.GameSessionStateApi">
+            <summary>
+            Public high-level API for session-state monitoring.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.GameSessionStateReader">
+            <summary>
+            Maps PlayerState availability to a stable high-level session state.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.IGameSessionStateReader">
+            <summary>
+            Reads the high-level game session state.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.GameSnapshot">
+            <summary>
+            Snapshot imutável da parte do estado exposta pelo AoE1Control 0.1.0.
+            </summary>
+        </member>
+        <member name="M:AoE1Control.GameSnapshot.#ctor(System.DateTimeOffset,System.Boolean,AoE1Control.PlayerSnapshot)">
+            <summary>
+            Snapshot imutável da parte do estado exposta pelo AoE1Control 0.1.0.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.GameVersionInfo">
+            <summary>
+            Identificação da versão validada do jogo.
+            </summary>
+        </member>
+        <member name="M:AoE1Control.GameVersionInfo.#ctor(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Identificação da versão validada do jogo.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.IAoE1GameApi">
+            <summary>
+            API somente leitura para o Age of Empires.
+            </summary>
+        </member>
+        <member name="P:AoE1Control.IAoE1GameApi.IsConnected">
+            <summary>Indica se o processo continua conectado.</summary>
+        </member>
+        <member name="P:AoE1Control.IAoE1GameApi.IsGameRunning">
+            <summary>Indica se uma sessão de jogo está ativa.</summary>
+        </member>
+        <member name="P:AoE1Control.IAoE1GameApi.GameVersion">
+            <summary>Informações da versão validada do jogo.</summary>
+        </member>
+        <member name="M:AoE1Control.IAoE1GameApi.GetSnapshot">
+            <summary>Obtém um snapshot consistente do estado exposto pela API.</summary>
+        </member>
+        <member name="M:AoE1Control.IAoE1GameApi.GetLocalPlayer">
+            <summary>Obtém o jogador local.</summary>
+        </member>
+        <member name="M:AoE1Control.IAoE1GameApi.GetResources">
+            <summary>Obtém os recursos do jogador local.</summary>
+        </member>
+        <member name="M:AoE1Control.IAoE1GameApi.TryGetSnapshot(AoE1Control.GameSnapshot@)">
+            <summary>Tenta obter um snapshot sem propagar falhas esperadas de sessão ou leitura.</summary>
+        </member>
+        <member name="M:AoE1Control.IAoE1GameApi.Refresh">
+            <summary>Atualiza o processo e invalida os ponteiros resolvidos em cache.</summary>
+        </member>
+        <member name="T:AoE1Control.PlayerSnapshot">
+            <summary>
+            Estado mínimo do jogador local.
+            </summary>
+        </member>
+        <member name="M:AoE1Control.PlayerSnapshot.#ctor(System.Int32,AoE1Control.ResourceSnapshot)">
+            <summary>
+            Estado mínimo do jogador local.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.IPlayerStateReader">
+            <summary>
+            Reads the local player's state.
+            </summary>
+        </member>
+        <member name="M:AoE1Control.IPlayerStateReader.Read">
+            <summary>
+            Strict read. Throws when the state is not available.
+            </summary>
+        </member>
+        <member name="M:AoE1Control.IPlayerStateReader.TryRead">
+            <summary>
+            Non-throwing read for normal scenario/menu transitions.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.PlayerPopulation">
+            <summary>
+            Population values for the local player.
+            </summary>
+        </member>
+        <member name="P:AoE1Control.PlayerPopulation.Current">
+            <summary>Current population used by all population-consuming units.</summary>
+        </member>
+        <member name="P:AoE1Control.PlayerPopulation.Available">
+            <summary>
+            Remaining population slots. This value can be negative in campaign
+            scenarios that begin with units but no built population capacity.
+            </summary>
+        </member>
+        <member name="P:AoE1Control.PlayerPopulation.Capacity">
+            <summary>Total capacity derived as Current + Available.</summary>
+        </member>
+        <member name="P:AoE1Control.PlayerPopulation.IsOverCapacity">
+            <summary>True when Current is greater than Capacity.</summary>
+        </member>
+        <member name="P:AoE1Control.PlayerPopulation.IsAtOrOverCapacity">
+            <summary>True when no additional population slot is available.</summary>
+        </member>
+        <member name="T:AoE1Control.PlayerResources">
+            <summary>
+            Resource values read from the local player's resource block.
+            </summary>
+        </member>
+        <member name="M:AoE1Control.PlayerResources.#ctor(System.Single,System.Single,System.Single,System.Single)">
+            <summary>
+            Resource values read from the local player's resource block.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.PlayerStateAddresses">
+            <summary>
+            Resolved addresses used for a snapshot. Useful for diagnostics only.
+            </summary>
+        </member>
+        <member name="M:AoE1Control.PlayerStateAddresses.#ctor(System.UInt32,System.UInt32,System.UInt32,System.UInt32)">
+            <summary>
+            Resolved addresses used for a snapshot. Useful for diagnostics only.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.PlayerStateApi">
+            <summary>
+            Convenience factory for the read-only PlayerState API.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.PlayerStateAvailability">
+            <summary>
+            Describes whether the local-player state is currently readable.
+            Temporary unavailability is expected while the game changes screens,
+            unloads a scenario, or creates a new player structure.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.PlayerStateReader">
+            <summary>
+            Reads the validated local-player state from Age of Empires Gold Edition.
+            This reader never writes to the game process.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.PlayerStateReadException">
+            <summary>
+            Raised when a consistent player-state snapshot cannot be produced.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.PlayerStateReadResult">
+            <summary>
+            Non-throwing result returned by <see cref="M:AoE1Control.PlayerStateApi.TryRead"/>.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.PlayerStateSnapshot">
+            <summary>
+            Immutable read-only snapshot of the local player's validated state.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.PlayerStateUnavailableException">
+            <summary>
+            Strict-read exception that preserves the semantic availability reason.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.PlayerUnitCounters">
+            <summary>
+            Validated and experimental unit-category counters.
+            </summary>
+        </member>
+        <member name="P:AoE1Control.PlayerUnitCounters.Villagers">
+            <summary>Validated villager count.</summary>
+        </member>
+        <member name="P:AoE1Control.PlayerUnitCounters.MilitaryPopulation">
+            <summary>
+            Validated military population. Confirmed to include at least Clubman
+            and Scout Ship.
+            </summary>
+        </member>
+        <member name="P:AoE1Control.PlayerUnitCounters.LightTransports">
+            <summary>Validated Light Transport count.</summary>
+        </member>
+        <member name="P:AoE1Control.PlayerUnitCounters.EconomicShipsA">
+            <summary>
+            Experimental counter at PlayerState + 0x004A.
+            It increased with Trade Boat and Fishing Boat in the validated scenario.
+            </summary>
+        </member>
+        <member name="P:AoE1Control.PlayerUnitCounters.EconomicShipsB">
+            <summary>
+            Experimental counter at PlayerState + 0x0066.
+            It increased with Trade Boat and Fishing Boat in the validated scenario.
+            </summary>
+        </member>
+        <member name="P:AoE1Control.PlayerUnitCounters.EconomicShips">
+            <summary>
+            Convenience value. Returns the shared economic-ship value when both
+            experimental counters agree; otherwise returns null.
+            </summary>
+        </member>
+        <member name="T:AoE1Control.ResourceSnapshot">
+            <summary>
+            Recursos do jogador local em um instante específico.
+            </summary>
+        </member>
+        <member name="M:AoE1Control.ResourceSnapshot.#ctor(System.Single,System.Single,System.Single,System.Single)">
+            <summary>
+            Recursos do jogador local em um instante específico.
+            </summary>
+        </member>
+    </members>
+</doc>

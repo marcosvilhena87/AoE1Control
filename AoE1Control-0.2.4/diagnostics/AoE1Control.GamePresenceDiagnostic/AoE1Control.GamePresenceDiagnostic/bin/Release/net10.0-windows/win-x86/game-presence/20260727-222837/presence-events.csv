@@ -1,0 +1,4 @@
+timestampUtc,previousState,currentState,playerStateAvailability,durationPreviousMilliseconds,message
+2026-07-28T01:28:38.1517459Z,"","InGame","Available",0,""
+2026-07-28T01:28:55.0655429Z,"InGame","NotInGame","PlayerStateUnavailable",16914,"PlayerState is not available: 0x00000000."
+2026-07-28T01:29:13.0147896Z,"NotInGame","InGame","Available",17949,""
